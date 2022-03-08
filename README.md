@@ -8,4 +8,4 @@
 - 💬 Ask me about math
 - 📫 How to reach me: richardylobosapan33@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love Anime
+- ⚡ Fun fact: I'm ex Clint Supreme on Moblie Legends
