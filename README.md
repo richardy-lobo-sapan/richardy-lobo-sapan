@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+- 📖 I'm a final year math student at University of Indonesia 
 - 🔭 I’m currently working on my project hehe
 - 🌱 I’m currently into Computer Vision and am working on several projects related to this
 - 👯 I’m looking to collaborate on any project
