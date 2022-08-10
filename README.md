@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-LinkedIn : linkedin.com/in/richardylobosapan
+LinkedIn : [linkedin.com/in/richardylobosapan](https://www.linkedin.com/in/richardylobosapan/)
 
 - 📖 I'm a final year math student at University of Indonesia 
 - 🔭 I’m currently working on my project hehe
