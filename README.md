@@ -12,6 +12,7 @@ with a focus on fintech and real-world analytics.
 |---|---|---|
 | [Olist Analytics — dbt + BigQuery](https://github.com/richardy-lobo-sapan/olist-analytics-dbt) | E-commerce data pipeline modeled into a star schema with staging, intermediate, and mart layers | dbt · BigQuery · SQL |
 | [Fintech Behavioral Segmentation](https://github.com/richardy-lobo-sapan/fintech-behavioral-segmentation) | Customer segmentation on fintech transaction data using clustering to identify behavioral patterns | Python · Scikit-learn · Pandas |
+| [Fintech Behavioral Segmentation API](https://github.com/richardy-lobo-sapan/fintech-segmentation-api) | REST API serving KMeans segmentation model on 278K fintech transactions | FastAPI · Docker · Railway · CI/CD | [Live API](https://fintech-segmentation-api-production.up.railway.app/docs) |
 | [Face Recognition](https://github.com/richardy-lobo-sapan/face-recognition-computer-vision) | Real-time face recognition system using computer vision | Python · OpenCV |
 | [LLM Chatbot with Memory](https://github.com/richardy-lobo-sapan) | *(Coming soon)* Conversational AI with persistent memory built on Claude API | Python · Streamlit · Anthropic API |
 
