@@ -1,4 +1,4 @@
-# Hi, I'm Richard 👋
+# Hi, I'm Richardy 👋
 AI Engineer & Data Scientist based in Jakarta, Indonesia.
 I build intelligent systems using LLMs, machine learning, and data pipelines —
 with a focus on fintech and real-world analytics.
@@ -9,18 +9,18 @@ with a focus on fintech and real-world analytics.
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
+| [Aria — LLM Chatbot with Memory](https://github.com/richardy-lobo-sapan/llm-chatbot-memory) | Conversational AI chatbot with persistent memory and streaming responses built on Groq + Llama 3.1 | Python · Groq API · Streamlit | [Live Demo](https://llm-chatbot-memory-evq5f6hm6yhlcuxjeqwvzy.streamlit.app) |
 | [Fintech Segmentation API](https://github.com/richardy-lobo-sapan/fintech-segmentation-api) | Production REST API serving KMeans segmentation model on 278K fintech transactions. Dockerized with CI/CD pipeline. | FastAPI · Docker · Railway · GitHub Actions | [Live API](https://fintech-segmentation-api-production.up.railway.app/docs) |
 | [Fintech Behavioral Segmentation](https://github.com/richardy-lobo-sapan/fintech-behavioral-segmentation) | Customer segmentation on fintech transaction data using clustering to identify behavioral patterns | Python · Scikit-learn · Pandas | — |
 | [Olist Analytics — dbt + BigQuery](https://github.com/richardy-lobo-sapan/olist-analytics-dbt) | E-commerce data pipeline modeled into star schema with staging, intermediate, and mart layers | dbt · BigQuery · SQL | — |
 | [Face Recognition](https://github.com/richardy-lobo-sapan/face-recognition-computer-vision) | Real-time face recognition system using computer vision | Python · OpenCV | — |
-| LLM Chatbot with Memory | *(Coming soon)* Conversational AI with persistent memory built on Claude API | Python · Streamlit · Anthropic API | — |
 
 ---
 
 ## 🛠 Tech Stack
 
 **AI & LLM**
-`Python` `Scikit-learn` `TensorFlow` `PyTorch` `OpenCV` `Anthropic API`
+`Python` `Scikit-learn` `TensorFlow` `PyTorch` `OpenCV` `Groq API` `Anthropic API` `Llama 3.1`
 
 **Data Engineering**
 `dbt` `BigQuery` `SQL` `Pandas` `NumPy`
@@ -29,7 +29,7 @@ with a focus on fintech and real-world analytics.
 `FastAPI` `Uvicorn` `Pydantic` `REST API`
 
 **DevOps & Cloud**
-`Docker` `Railway` `GitHub Actions` `CI/CD` `Google Cloud`
+`Docker` `Railway` `GitHub Actions` `CI/CD` `Google Cloud` `Streamlit Cloud`
 
 **Tools**
 `Git` `GitHub` `Jupyter` `Streamlit`
@@ -38,9 +38,9 @@ with a focus on fintech and real-world analytics.
 
 ## 📈 Currently Building
 
-- LLM-powered applications using the Anthropic Claude API
-- RAG systems for document question-answering
-- AI agents with tool use and memory
+- RAG system for document question-answering (Project 2)
+- AI agents with tool use and memory (Project 3)
+- Production LLM APIs with observability
 
 ---
 
