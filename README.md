@@ -21,7 +21,7 @@ with a focus on fintech and real-world analytics.
 ## 🛠 Tech Stack
 
 **AI & LLM**
-`Python` `Scikit-learn` `TensorFlow` `PyTorch` `OpenCV` `Groq API` `Anthropic API` `Llama 3.1`
+`Python` `Scikit-learn` `TensorFlow` `Keras` `PyTorch` `OpenCV` `Groq API` `Anthropic API` `Llama 3.1` `LSTM`
 
 **Data Engineering**
 `dbt` `BigQuery` `SQL` `Pandas` `NumPy`
