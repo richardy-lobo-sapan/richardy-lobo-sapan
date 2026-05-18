@@ -1,4 +1,4 @@
-# Hi, I'm Richardy 👋
+# Hi, I'm Richard 👋
 AI Engineer & Data Scientist based in Jakarta, Indonesia.
 I build intelligent systems using LLMs, machine learning, and data pipelines —
 with a focus on fintech and real-world analytics.
