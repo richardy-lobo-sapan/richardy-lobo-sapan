@@ -16,6 +16,7 @@ with a focus on fintech and real-world analytics.
 | [Face Recognition](https://github.com/richardy-lobo-sapan/face-recognition-computer-vision) | Real-time face recognition system using computer vision | Python · OpenCV | — |
 | [Stock Trading Robot](https://github.com/richardy-lobo-sapan/Stock-Trading-Robot) | LSTM deep learning model that predicts stock prices 10 days ahead and recommends Buy/Sell/Hold actions | Python · LSTM · TensorFlow · Keras | — |
 | [DocChat — RAG System](https://github.com/richardy-lobo-sapan/rag-document-chat) | RAG system that lets you upload any PDF and ask questions about it with source citations | Python · LangChain · ChromaDB · Gemini · Streamlit | [Live Demo](https://rag-document-chat-o4uujl2eatcayam4vxmuh3.streamlit.app) |
+| [AI Agent with Tools](https://github.com/richardy-lobo-sapan/ai-agent-tools) | AI agent that searches the web, does math, and chains multiple tools to answer complex multi-step questions | Python · LangChain · Gemini · Tavily | Coming soon |
 
 ---
 
@@ -30,7 +31,7 @@ with a focus on fintech and real-world analytics.
 ## 🛠 Tech Stack
 
 **AI & LLM**
-`Python` `Scikit-learn` `TensorFlow` `Keras` `PyTorch` `OpenCV` `Groq API` `Anthropic API` `Llama 3.1` `LSTM` `LangChain` `ChromaDB` `RAG` `Gemini API`
+`Python` `Scikit-learn` `TensorFlow` `Keras` `PyTorch` `OpenCV` `Groq API` `Anthropic API` `Llama 3.1` `LSTM` `LangChain` `ChromaDB` `RAG` `Gemini API` `Tavily` `AI Agents` `ReAct`
 
 **Data Engineering**
 `dbt` `BigQuery` `SQL` `Pandas` `NumPy`
