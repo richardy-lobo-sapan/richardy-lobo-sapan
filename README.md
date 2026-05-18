@@ -14,6 +14,7 @@ with a focus on fintech and real-world analytics.
 | [Fintech Behavioral Segmentation](https://github.com/richardy-lobo-sapan/fintech-behavioral-segmentation) | Customer segmentation on fintech transaction data using clustering to identify behavioral patterns | Python · Scikit-learn · Pandas | — |
 | [Olist Analytics — dbt + BigQuery](https://github.com/richardy-lobo-sapan/olist-analytics-dbt) | E-commerce data pipeline modeled into star schema with staging, intermediate, and mart layers | dbt · BigQuery · SQL | — |
 | [Face Recognition](https://github.com/richardy-lobo-sapan/face-recognition-computer-vision) | Real-time face recognition system using computer vision | Python · OpenCV | — |
+| [Stock Trading Robot](https://github.com/richardy-lobo-sapan/Stock-Trading-Robot) | LSTM deep learning model that predicts stock prices 10 days ahead and recommends Buy/Sell/Hold actions | Python · LSTM · TensorFlow · Keras | — |
 
 ---
 
