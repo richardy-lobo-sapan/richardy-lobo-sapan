@@ -44,13 +44,6 @@ with a focus on fintech and real-world analytics.
 **Tools**
 `Git` `GitHub` `Jupyter` `Streamlit`
 
----
-
-## 📈 Currently Building
-
-- RAG system for document question-answering (Project 2)
-- AI agents with tool use and memory (Project 3)
-- Production LLM APIs with observability
 
 ---
 
