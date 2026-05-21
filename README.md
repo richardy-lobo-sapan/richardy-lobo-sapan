@@ -22,7 +22,7 @@ with a focus on fintech and real-world analytics.
 
 ## 📚 Resources
 
-|[Indonesian NLP Resources 🇮🇩](https://github.com/richardy-lobo-sapan/awesome-nlp-id) | Beginner's curated list of NLP resources for Bahasa Indonesia and Indonesia's regional languages |
+[Indonesian NLP Resources 🇮🇩](https://github.com/richardy-lobo-sapan/awesome-nlp-id) — Beginner's curated list of NLP resources for Bahasa Indonesia and Indonesia's regional languages 
 
 ---
 
