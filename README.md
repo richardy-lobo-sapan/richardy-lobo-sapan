@@ -32,7 +32,7 @@ Actively building my AI Engineer portfolio and **open to new opportunities** —
 ## 📚 Publication
 
 **Co-author — ACL 2025 (Long Papers)**
-[Crowdsource, Crawl, or Generate? Creating SEA-VL, a Multicultural Vision-Language Dataset for Southeast Asia](https://seacrowd.org/projects/2025-seavl-phase-1.html)
+[Crowdsource, Crawl, or Generate? Creating SEA-VL, a Multicultural Vision-Language Dataset for Southeast Asia](https://aclanthology.org/2025.acl-long.916/)
 Contributed to dataset construction for Southeast Asian vision-language research.
 
 
