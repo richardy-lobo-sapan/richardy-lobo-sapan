@@ -13,19 +13,15 @@ Actively building my AI Engineer portfolio and **open to new opportunities** —
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
-**LLM & AI**
-`LangChain` `LangGraph` `RAG` `AI Agents` `Gemini API` `Groq API` `Llama 3.1` `ChromaDB` `Langfuse` `Tavily` `HuggingFace`
+**LLM & AI** `LangChain` `LangGraph` `RAG` `AI Agents` `Gemini API` `Groq API` `Llama 3.1` `ChromaDB` `Langfuse` `Tavily` `HuggingFace` `Unsloth` `QLoRA` `PEFT` `TRL` `Qwen`
 
-**ML & Data Science**
-`Scikit-learn` `XGBoost` `TensorFlow` `PyTorch` `LSTM` `NLP` `OpenCV`
+**ML & Data Science** `Scikit-learn` `XGBoost` `TensorFlow` `PyTorch` `LSTM` `NLP` `OpenCV` `BitsAndBytes`
 
-**Backend & DevOps**
-`FastAPI` `Docker` `Railway` `GitHub Actions` `CI/CD` `Streamlit`
+**Backend & DevOps** `FastAPI` `Docker` `Railway` `GitHub Actions` `CI/CD` `Streamlit`
 
-**Data Engineering**
-`dbt` `BigQuery` `SQL` `Supabase` `Pandas` `NumPy`
+**Data Engineering** `dbt` `BigQuery` `SQL` `SQLite` `Supabase` `Pandas` `NumPy` `Datasets`
 
 ---
 
