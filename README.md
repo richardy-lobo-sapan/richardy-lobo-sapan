@@ -1,4 +1,4 @@
-# Hi, I'm Richardy 👋
+# Hi, I'm Richard 👋
 
 **AI Engineer & Data Scientist** based in Jakarta, Indonesia.
 
