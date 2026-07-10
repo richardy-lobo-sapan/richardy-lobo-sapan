@@ -19,9 +19,9 @@ Actively building my AI Engineer portfolio and **open to new opportunities** —
 
 **ML & Data Science** `Scikit-learn` `XGBoost` `TensorFlow` `PyTorch` `LSTM` `NLP` `OpenCV` `BitsAndBytes`
 
-**Backend & DevOps** `FastAPI` `Docker` `Railway` `GitHub Actions` `CI/CD` `Streamlit`
+**Backend & DevOps** `FastAPI` `Docker` `Railway` `GitHub Actions` `CI/CD` `Streamlit` `Pydantic`
 
-**Data Engineering** `dbt` `BigQuery` `SQL` `SQLite` `Supabase` `Pandas` `NumPy` `Datasets`
+**Data Engineering** `dbt` `BigQuery` `SQL` `SQLite` `Supabase` `PostgreSQL` `pgvector` `Pandas` `NumPy` `Datasets`
 
 ---
 
@@ -38,6 +38,11 @@ Contributed to dataset construction for Southeast Asian vision-language research
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
+| [Credit Risk Decision Engine](https://github.com/richardy-lobo-sapan/credit-risk-engine) | End-to-end credit risk system on 307K applicants — PD modeling, SHAP explainability, expected loss, portfolio analytics, stress testing, drift monitoring | LightGBM · WOE/IV · SHAP · Streamlit | — |
+| [Document Intelligence RAG System](https://github.com/richardy-lobo-sapan/doc-intel-rag) | Citation-grounded RAG over PDFs, DOCX, PPTX, XLSX, and CSVs — every answer traces to an exact page, slide, or row | FastAPI · Postgres · pgvector · Groq · Langfuse | — |
+| [Resilient Document Extraction Engine](https://github.com/richardy-lobo-sapan/doc-extraction) | VLM pipeline extracting structured data from receipts, with a primary/fallback model chain and self-healing schema validation | Groq · Llama Vision · GPT-4o · OpenCV · Pydantic | — |
+| [text2sql-finetune](https://github.com/richardy-lobo-sapan/text2sql-finetune) | QLoRA fine-tune of a sub-3B model for fintech text-to-SQL, evaluated on live SQL execution accuracy | Qwen2.5-Coder · QLoRA · Unsloth | — |
+| [HR Attrition Analytics](https://github.com/richardy-lobo-sapan/hr-attrition-analytics) | EDA, hypothesis testing, classification, regression, and clustering on employee attrition data | XGBoost · Random Forest · Scikit-learn | — |
 | [Fintech LLM Analyst](https://github.com/richardy-lobo-sapan/fintech-llm-analyst) | Natural language → SQL → BigQuery. Ask questions about 100K+ Olist e-commerce orders in plain English | LangChain · Groq · BigQuery · Streamlit | [Live App](https://fintech-llm-analyst-ciezta6xfgfy9mqdma8jd6.streamlit.app) |
 | [LLM API Production](https://github.com/richardy-lobo-sapan/llm-api-production) | Production RAG API with observability tracing, persistent chat history, and CI/CD deployment | FastAPI · LangChain · Gemini · ChromaDB · Langfuse · Supabase · Railway | [Live API](https://llm-api-production-production.up.railway.app/docs) |
 | [AI Agent with Tools](https://github.com/richardy-lobo-sapan/ai-agent-tools) | ReAct AI agent that chains web search, math, and date tools to answer multi-step questions | LangChain · LangGraph · Gemini · Tavily · Streamlit | [Live Demo](https://ai-agent-tools-cwd7wrxjhyntnbicdccsri.streamlit.app) |
