@@ -15,7 +15,7 @@ Actively building my AI Engineer portfolio and **open to new opportunities** —
 
 ### 🛠 Tech Stack
 
-**LLM & AI** `LangChain` `LangGraph` `RAG` `AI Agents` `Gemini API` `Groq API` `Llama 3.1` `ChromaDB` `Langfuse` `Tavily` `HuggingFace` `Unsloth` `QLoRA` `PEFT` `TRL` `Qwen`
+**LLM & AI** `LangChain` `LangGraph` `RAG` `AI Agents` `Gemini API` `Groq API` `Llama 3.1` `ChromaDB` `Langfuse` `Tavily` `HuggingFace` `Unsloth` `QLoRA` `PEFT` `TRL` `Qwen` `Ragas`
 
 **ML & Data Science** `Scikit-learn` `XGBoost` `TensorFlow` `PyTorch` `LSTM` `NLP` `OpenCV` `BitsAndBytes`
 
@@ -38,6 +38,7 @@ Contributed to dataset construction for Southeast Asian vision-language research
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
+| [RAG Evaluation & Optimization System](https://github.com/richardy-lobo-sapan/rag-evaluation-system) | Automated Ragas evaluation harness with an LLM-as-judge layer and a CI/CD quality gate, applied end-to-end to my DocChat and LLM API Production RAG systems with live GitHub Actions gates | Ragas · LangChain · ChromaDB · Groq · GitHub Actions | — |
 | [Credit Risk Decision Engine](https://github.com/richardy-lobo-sapan/credit-risk-engine) | End-to-end credit risk system on 307K applicants — PD modeling, SHAP explainability, expected loss, portfolio analytics, stress testing, drift monitoring | LightGBM · WOE/IV · SHAP · Streamlit | — |
 | [Document Intelligence RAG System](https://github.com/richardy-lobo-sapan/doc-intel-rag) | Citation-grounded RAG over PDFs, DOCX, PPTX, XLSX, and CSVs — every answer traces to an exact page, slide, or row | FastAPI · Postgres · pgvector · Groq · Langfuse | — |
 | [Resilient Document Extraction Engine](https://github.com/richardy-lobo-sapan/doc-extraction) | VLM pipeline extracting structured data from receipts, with a primary/fallback model chain and self-healing schema validation | Groq · Llama Vision · GPT-4o · OpenCV · Pydantic | — |
