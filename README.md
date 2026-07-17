@@ -15,11 +15,11 @@
 ## 🚀 About Me
 
 🌏 **Data Scientist & AI/ML Engineer** based in Jakarta, Indonesia
-🧠 Building systems at the intersection of **LLMs, RAG pipelines, and production APIs** — fintech and real-world analytics
-📊 Also go deep on **credit risk modeling** and applied ML in finance
-🗣️ **NLP research contributor** at [SEACROWD](https://seacrowd.github.io/), building open-source resources for Southeast Asian languages
-🎓 B.Sc. Mathematics, Universitas Indonesia ('23) — thesis on NLP & Twitter sentiment analysis
-💼 Actively building my AI/ML portfolio and **open to new opportunities** — full-time or freelance, Indonesian companies or remote international
+/n 🧠 Building systems at the intersection of **LLMs, RAG pipelines, and production APIs** — fintech and real-world analytics
+/n 📊 Also go deep on **credit risk modeling** and applied ML in finance
+/n 🗣️ **NLP research contributor** at [SEACROWD](https://seacrowd.github.io/), building open-source resources for Southeast Asian languages
+/n 🎓 B.Sc. Mathematics, Universitas Indonesia ('23) — thesis on NLP & Twitter sentiment analysis
+/n 💼 Actively building my AI/ML portfolio and **open to new opportunities** — full-time or freelance, Indonesian companies or remote international
 
 ---
 
