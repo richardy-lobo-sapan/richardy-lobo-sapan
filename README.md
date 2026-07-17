@@ -1,27 +1,85 @@
 # Hi, I'm Richard 👋
 
-**AI Engineer & Data Scientist** based in Jakarta, Indonesia.
+<div align="center">
 
-I build intelligent systems using LLMs, RAG pipelines, and production APIs —
-with a focus on fintech and real-world analytics.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B85C2A&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+AI%2FML+Engineer;Building+Production+RAG+%26+LLM+Systems;Credit+Risk+%26+Fintech+Analytics;NLP+Research+Contributor+%40+SEACROWD" alt="Typing SVG" />
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/🌐%20richardy--lobo--sapan.github.io-B85C2A?style=for-the-badge&logoColor=white)](https://richardy-lobo-sapan.github.io/)
+
+</div>
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 About Me
 
-Actively building my AI Engineer portfolio and **open to new opportunities** — full-time or freelance, Indonesian companies or remote international.
+🌏 **Data Scientist & AI/ML Engineer** based in Jakarta, Indonesia
+🧠 Building systems at the intersection of **LLMs, RAG pipelines, and production APIs** — fintech and real-world analytics
+📊 Also go deep on **credit risk modeling** and applied ML in finance
+🗣️ **NLP research contributor** at [SEACROWD](https://seacrowd.github.io/), building open-source resources for Southeast Asian languages
+🎓 B.Sc. Mathematics, Universitas Indonesia ('23) — thesis on NLP & Twitter sentiment analysis
+💼 Actively building my AI/ML portfolio and **open to new opportunities** — full-time or freelance, Indonesian companies or remote international
 
 ---
 
 ### 🛠 Tech Stack
 
-**LLM & AI** `LangChain` `LangGraph` `RAG` `AI Agents` `Gemini API` `Groq API` `Llama 3.1` `ChromaDB` `Langfuse` `Tavily` `HuggingFace` `Unsloth` `QLoRA` `PEFT` `TRL` `Qwen` `Ragas`
+**LLM & AI**
 
-**ML & Data Science** `Scikit-learn` `XGBoost` `TensorFlow` `PyTorch` `LSTM` `NLP` `OpenCV` `BitsAndBytes`
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-6E56CF?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Llama 3.1](https://img.shields.io/badge/Llama%203.1-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-611FEA?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge)
+![Ragas](https://img.shields.io/badge/Ragas-4C6EF5?style=for-the-badge)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge)
+![Tavily](https://img.shields.io/badge/Tavily-1F6FEB?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Unsloth](https://img.shields.io/badge/Unsloth-1AAE9F?style=for-the-badge)
+![QLoRA](https://img.shields.io/badge/QLoRA-9B59B6?style=for-the-badge)
+![PEFT](https://img.shields.io/badge/PEFT-9B59B6?style=for-the-badge)
+![TRL](https://img.shields.io/badge/TRL-9B59B6?style=for-the-badge)
 
-**Backend & DevOps** `FastAPI` `Docker` `Railway` `GitHub Actions` `CI/CD` `Streamlit` `Pydantic`
+**ML & Data Science**
 
-**Data Engineering** `dbt` `BigQuery` `SQL` `SQLite` `Supabase` `PostgreSQL` `pgvector` `Pandas` `NumPy` `Datasets`
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB0028?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LSTM](https://img.shields.io/badge/LSTM-8A2BE2?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP-8A2BE2?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-2E8B57?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![BitsAndBytes](https://img.shields.io/badge/BitsAndBytes-6E56CF?style=for-the-badge)
+
+**Backend & DevOps**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+
+**Data Engineering**
+
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Datasets](https://img.shields.io/badge/🤗%20Datasets-FFD21E?style=for-the-badge)
 
 ---
 
@@ -60,11 +118,20 @@ Contributed to dataset construction for Southeast Asian vision-language research
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-richardylobosapan-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/richardylobosapan/)
-[![Portfolio](https://img.shields.io/badge/Notion-Portfolio-black?style=flat&logo=notion)](https://richardysapan.notion.site/e302c65b31924ff6a9533558402ae9ee)
-[![Medium](https://img.shields.io/badge/Medium-Blog-black?style=flat&logo=medium)](https://medium.com/@richardylobosapan)
-[![GitHub](https://img.shields.io/badge/GitHub-richardy--lobo--sapan-333?style=flat&logo=github)](https://github.com/richardy-lobo-sapan)
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-B85C2A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://richardy-lobo-sapan.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardylobosapan/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=id&user=P-O_EnAAAAAJ)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Richardy-Sapan)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@richardylobosapan)
+
+</div>
 
 ---
 
+<div align="center">
+
 *"Always learning, always building."*
+
+</div>
