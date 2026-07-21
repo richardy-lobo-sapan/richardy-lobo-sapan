@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+# Producer tag: speaks a random phrase before each push completes.
+# Enable with: git config core.hooksPath .githooks
+
+HOOK_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+PHRASES_FILE="$HOOK_DIR/tag-phrases.txt"
+
+PHRASE="Claude made it"
+if [ -f "$PHRASES_FILE" ]; then
+    mapfile -t PHRASES < "$PHRASES_FILE"
+    if [ "${#PHRASES[@]}" -gt 0 ]; then
+        PHRASE="${PHRASES[$RANDOM % ${#PHRASES[@]}]}"
+    fi
+fi
+
+POWERSHELL_PHRASE="$PHRASE" powershell.exe -NoProfile -Command \
+    "Add-Type -AssemblyName System.Speech; (New-Object System.Speech.Synthesis.SpeechSynthesizer).Speak(\$env:POWERSHELL_PHRASE)" \
+    >/dev/null 2>&1
+
+exit 0
