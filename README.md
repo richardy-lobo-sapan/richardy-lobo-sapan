@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B85C2A&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+AI%2FML+Engineer;Building+Production+RAG+%26+LLM+Systems;Credit+Risk+%26+Fintech+Analytics;NLP+Research+Contributor+%40+SEACROWD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B85C2A&center=true&vCenter=true&width=600&lines=AI+Engineer+%40+ICON%2B;Building+Production+RAG+%26+LLM+Systems;Credit+Risk+%26+Fintech+Analytics;NLP+Research+Contributor+%40+SEACROWD" alt="Typing SVG" />
 
 <br>
 
@@ -14,12 +14,12 @@
 
 ## 🚀 About Me
 
-- 🌏 **Data Scientist & AI/ML Engineer** based in Jakarta, Indonesia
+- 🌏 **AI Engineer at PLN Icon Plus (ICON+)** based in Jakarta, Indonesia — working on production AI and retrieval (RAG) systems for an enterprise platform
 - 🧠 Building systems at the intersection of **LLMs, RAG pipelines, and production APIs** — fintech and real-world analytics
 - 📊 Also go deep on **credit risk modeling** and applied ML in finance
 - 🗣️ **NLP research contributor** at [SEACROWD](https://seacrowd.github.io/), building open-source resources for Southeast Asian languages
 - 🎓 B.Sc. Mathematics, Universitas Indonesia ('23) — thesis on NLP & Twitter sentiment analysis
-- 💼 Actively building my AI/ML portfolio and **open to new opportunities** — full-time or freelance, Indonesian companies or remote international
+- 💬 Always happy to talk about **NLP research and collaboration**
 
 ---
 
@@ -57,6 +57,9 @@
 ![NLP](https://img.shields.io/badge/NLP-2E8B57?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![BitsAndBytes](https://img.shields.io/badge/BitsAndBytes-6E56CF?style=for-the-badge)
+![WOE / IV](https://img.shields.io/badge/WOE%20%2F%20IV-02569B?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 **Backend & DevOps**
 
